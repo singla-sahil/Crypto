@@ -4,6 +4,9 @@ Steps for running locally
 ```
 pip install -r requirements.txt
 ```
-2. Generate API id and hash from https://my.telegram.org/apps
-3. Create a config.ini file with the template provided
-4. Run python3 whale.py
+Add symbols of coins you wanna check out with Thursday - Sunday Strat
+
+run 
+```
+python get_thurday_sunday_strat_plots.py
+```
